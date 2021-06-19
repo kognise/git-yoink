@@ -1,0 +1,14 @@
+{
+  "name": "git-yoink",
+  "version": "1.0.0",
+  "description": "Git utility for a Golang-inspired directory structure.",
+  "main": "yoink.js",
+  "bin": "./yoink.js",
+  "repository": "https://github.com/kognise/git-yoink/",
+  "author": "Kognise <hi@kognise.dev>",
+  "license": "Unlicense",
+  "private": false,
+  "dependencies": {
+    "git-url-parse": "^11.4.4"
+  }
+}
