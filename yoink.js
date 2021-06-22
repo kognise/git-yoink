@@ -12,6 +12,7 @@ if (url.length === 0) {
 
 const parsed = parseGitUrl(url)
 const path = pathLib.join(
+  process.env.GIT_YOINK_ROOT || '',
   parsed.resource,
   parsed.owner,
   parsed.name

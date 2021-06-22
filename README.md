@@ -32,4 +32,6 @@ just use it instead of your normal clone...
 git yoink git@github.com:kognise/water.css.git
 ```
 
+if you set the environment variable `GIT_YOINK_ROOT` it'll clone everything into that directory instead of the working directory.
+
 create an issue if you have any questions!
