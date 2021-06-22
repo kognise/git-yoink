@@ -1,6 +1,6 @@
 {
   "name": "git-yoink",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Git utility for a Golang-inspired directory structure.",
   "main": "yoink.js",
   "bin": "./yoink.js",
